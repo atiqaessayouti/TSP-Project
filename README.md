@@ -50,12 +50,12 @@ Pour une analyse rigoureuse, les résultats suivants sont basés sur la moyenne 
 
 ### 🔹 Courbes de Convergence
 On observe que le Hill Climbing converge très rapidement vers un palier, tandis que le Recuit Simulé accepte des solutions moins bonnes au début pour mieux explorer l'espace.
-![Convergence 50 villes](screenshots/convergence.png)
+![Convergence 50 villes]<img width="884" height="744" alt="image" src="https://github.com/user-attachments/assets/0ba5a7c0-a4ed-4973-a86a-6ddceb3a2d48" />
 
 
 ### 🔹 Meilleur Trajet Trouvé (Map)
 Visualisation du circuit hamiltonien optimisé sans croisements grâce à l'opérateur 2-opt.
-![Best Route](screenshots/best_route.png)
+![Best Route](<img width="853" height="733" alt="image" src="https://github.com/user-attachments/assets/033b10fb-3aa5-465c-8909-f4a6cec273d4" />
 
 
 ---
